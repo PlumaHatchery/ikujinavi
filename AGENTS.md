@@ -99,6 +99,14 @@
 - 個別事情により向き不向きがある前提で書く。
 - 医療・健康・安全に関わる内容は公式情報確認を促す。
 
+## Slack Notes
+
+For parenting goods work, use Slack to confirm before external actions, GitHub push, cron registration, heavy crawling, or large product research.
+
+Flag medical, health, development, safety, affiliate, ranking, or strong purchase recommendation concerns before article use.
+
+When asking for review, include recheck points such as price, stock, review count, target age, recalls, and official product information.
+
 ## Daily Log
 
 日次ログは `memory/YYYY-MM-DD.md` に書く。
