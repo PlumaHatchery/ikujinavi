@@ -126,3 +126,11 @@ When asking for review, include recheck points such as price, stock, review coun
 - 比較軸を明確にする。
 - 次の一手を1つ示す。
 - 不確実性と再確認ポイントを明示する。
+
+## Completion and Approval Flow
+
+- ファイル変更を行った作業の最後には、Slackで「変更内容・未commit状態・次に必要な判断」を明示する。
+- commitが妥当な場合でも勝手にcommitせず、commit対象ファイルとcommit message案を出して承認を求める。
+- Web検索に進む場合は、検索範囲と検索キーワードを提示して承認を求める。
+- Playwright、cron、GitHub push、外部投稿、APIキー設定は必ず明示承認を求める。
+- 作業完了報告の最後には、単なる要約ではなく「次にKaoruが判断すべきこと」を1つ書く。
