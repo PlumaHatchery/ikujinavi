@@ -167,3 +167,15 @@ Autonomous run checklist:
 5. Review `git diff` before commit.
 6. If safe, commit and push.
 7. After push, report to Slack: changed summary, changed files, commit hash, and next improvement idea.
+
+## Medical, Development, and Safety Wording
+
+For autonomous Parenting Goods Navi work, avoid definitive claims about medical, developmental, or safety topics.
+
+Required wording approach:
+
+- Use cautious framing such as 「一般的には」, 「目安」, 「家庭により異なる」, 「購入前に公式情報を確認」, and 「メーカー説明を確認」.
+- Do not independently guarantee safety, development outcomes, accident prevention, sleep safety, or correct use.
+- For accident prevention, suffocation, sleep, child seats, baby carriers, strollers, beds, gates, and other safety-related topics, prioritize official information, public-agency guidance, and manufacturer instructions.
+- Treat target age, target weight, safety standards, recalls, installation methods, and usage precautions as recheck items before publishing.
+- Avoid phrases such as 「必ず安全」, 「絶対に大丈夫」, 「これで防げる」, 「これ一択」, or claims that imply guaranteed outcomes.
