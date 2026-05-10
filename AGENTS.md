@@ -47,7 +47,7 @@
 - 小さい手順で進める。
 - 破壊的操作は必ず確認する。
 - 外部サービス連携は必ず確認する。
-- GitHub pushしない。
+- 育児グッズナビについては、Kaoruの包括許可により、安全な範囲の変更はcommit / GitHub pushしてよい。
 - APIキー、トークン、認証URL、環境変数、秘密ファイルの内容を表示しない。
 - 医療・安全・育児アドバイス表現は慎重に扱う。
 - 商品価格、在庫、レビュー数、ランキングは変動するため、記事化前に再確認する前提で書く。
@@ -130,7 +130,7 @@ When asking for review, include recheck points such as price, stock, review coun
 ## Completion and Approval Flow
 
 - ファイル変更を行った作業の最後には、Slackで「変更内容・未commit状態・次に必要な判断」を明示する。
-- commitが妥当な場合でも勝手にcommitせず、commit対象ファイルとcommit message案を出して承認を求める。
+- 育児グッズナビについては、安全な範囲の変更ならcommit / pushしてよい。大きな方針変更、外部サービス連携、課金、広告、cron、APIキー設定は事前確認する。
 - Web検索に進む場合は、検索範囲と検索キーワードを提示して承認を求める。
 - Playwright、cron、GitHub push、外部投稿、APIキー設定は必ず明示承認を求める。
 - 作業完了報告の最後には、単なる要約ではなく「次にKaoruが判断すべきこと」を1つ書く。
