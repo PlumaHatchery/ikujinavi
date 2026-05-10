@@ -134,3 +134,36 @@ When asking for review, include recheck points such as price, stock, review coun
 - Web検索に進む場合は、検索範囲と検索キーワードを提示して承認を求める。
 - Playwright、cron、GitHub push、外部投稿、APIキー設定は必ず明示承認を求める。
 - 作業完了報告の最後には、単なる要約ではなく「次にKaoruが判断すべきこと」を1つ書く。
+
+## Autonomous Operation Permission
+
+Kaoru has authorized OpenClaw / Clawpi to operate this repo autonomously within safe limits.
+
+Scope:
+
+- Target repo: `~/projects/parenting-goods-navi/` only.
+- Allowed: public/free web research, existing file inspection, HTML/CSS/Markdown creation and editing, article ideas, category pages, comparison pages, git status/diff/add/commit/push, and Slack work reports.
+- Commit messages should use `openclaw: ...` format.
+
+Hard limits:
+
+- Do not modify files or repos outside `~/projects/parenting-goods-navi/` during this repo's autonomous work.
+- Do not force push.
+- Do not change git remotes.
+- Do not add, change, or delete `CNAME`.
+- Do not display, store, or commit secrets, API keys, tokens, or passwords.
+- Do not add `node_modules`, build artifacts, huge files, images, or videos without explicit approval.
+- Do not change GitHub Pages settings or repository settings.
+- Do not post to external SNS or external services.
+- Do not do large full-site rewrites in one autonomous run.
+- If unsure, ask Kaoru on Slack and stop.
+
+Autonomous run checklist:
+
+1. Check `git status --short` first.
+2. Inspect existing file structure before editing.
+3. Use only free/public sources unless Kaoru explicitly approves otherwise.
+4. Make one small improvement per run.
+5. Review `git diff` before commit.
+6. If safe, commit and push.
+7. After push, report to Slack: changed summary, changed files, commit hash, and next improvement idea.
