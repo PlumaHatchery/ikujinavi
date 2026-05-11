@@ -43,6 +43,19 @@
 - 用途: ベビーカーや抱っこひもの事故例、使用時注意点の確認。
 - ページ反映方針: 外出用品では、固定ベルト、段差、抱っこひもの装着確認などを比較軸・注意点に入れる。
 
+## メーカー公式確認先
+
+### 軽量B型・コンパクトベビーカー候補（2026-05-12確認）
+
+- ピジョン Bingle BB4: https://pigeon-htravel.com/bingle/
+  - 確認項目: 価格、使用月齢範囲、体重、重量、タイヤ径、折りたたみサイズ、取扱説明書リンク。
+- アップリカ ヴィット AB: https://www.aprica.jp/products/babycar/detail/type_b_compact/viit_ab/
+  - 確認項目: 価格、発売、使用期間、対象体重、SGマーク注記、サイズ、重量、品番/JAN。
+- カトージ TATAMY: https://www.katoji.co.jp/lp/tatamy/ / https://www.katoji.co.jp/products-detail.html?_prvw_k__PItem=4661
+  - 確認項目: 使用対象年齢、体重、価格、開閉サイズ、重量、リクライニング、適合基準。
+- コンビ E7系かがやきベビーカーB型: https://www.combi.co.jp/store/stroller/acbee/g/g119237/
+  - 確認項目: 限定モデル表記、型番/JAN、サイズ、重量、対象月齢・体重、主な機能、オープン価格、販売導線。
+
 ## 次に調査する候補
 
 - ベビーベッド、ベビーゲート、抱っこひも、チャイルドシートの安全基準・公式注意喚起。
