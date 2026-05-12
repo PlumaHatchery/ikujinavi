@@ -148,7 +148,7 @@
 
 ### ベビーゲートを選ぶ前の設置場所チェック
 
-- Stage: Research。
+- Stage: Published。
 - Keyword: ベビーゲート 設置場所 / ベビーゲート 階段 キッチン。
 - Search intent: ハイハイやつかまり立ちが始まる前後に、階段・キッチン・浴室前などへベビーゲートを設置すべきか、何を確認すればよいか知りたい。
 - Target reader: 子どもの行動範囲が広がり、家庭内の危険箇所への立ち入り対策を検討している保護者。
@@ -158,4 +158,6 @@
 - Comparison criteria: 設置場所への対応、階段上対応の可否、ロック方式、開閉しやすさ、またぎやすさ、幅調整、固定方法、対象年齢、取扱説明書の分かりやすさ。
 - Safety / accuracy notes: 階段上への設置が禁止されている製品がある。対象年齢、固定方法、使用上の注意、定期点検、リコール・仕様変更は記事化前に公式情報で再確認する。事故防止を保証する表現は避ける。
 - Source memo: 消費者庁「ベビーゲートを正しく使用し事故を防止しましょう!」（2026-05-12確認） https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20210628/
-- Next action: 公的注意喚起をもとに、設置場所別の確認チェックリストを下書き化する。
+- Draft: `drafts/baby-gate-placement-check.md` を作成済み（2026-05-12）。
+- Public page: `articles/baby-gate-placement-check.html` を追加し、記事一覧とトップページから導線を設置済み（2026-05-12）。
+- Next action: 個別商品比較へ進む場合は、メーカー公式の階段上対応可否・固定方法・対象年齢・取扱説明書を確認してから扱う。
