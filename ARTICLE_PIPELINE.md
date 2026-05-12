@@ -184,3 +184,18 @@
 - Draft: `drafts/baby-gate-placement-check.md` を作成済み（2026-05-12）。
 - Public page: `articles/baby-gate-placement-check.html` を追加し、記事一覧とトップページから導線を設置済み（2026-05-12）。
 - Next action: 個別商品比較へ進む場合は、メーカー公式の階段上対応可否・固定方法・対象年齢・取扱説明書を確認してから扱う。
+
+### 抱っこ紐とベビーカー、どちらを先に用意する？
+
+- Stage: Published。
+- Keyword: 抱っこ紐 ベビーカー どっち / 出産準備 抱っこ紐 ベビーカー。
+- Search intent: 車なし・狭い家の出産準備で、抱っこ紐とベビーカーのどちらを先に用意すべきか知りたい。
+- Target persona: 都市部・車なし・収納少なめの家で初めて出産準備をする家庭。
+- Situation: 退院後の移動、1か月健診、近所の外出で何を使うか迷っている。
+- Main worry: 大型グッズを買いすぎること、外出時に困ること、抱っこ紐やベビーカーを誤って使うこと。
+- What this article helps decide: 先に検討しやすい用品、後回しにできる判断、購入前の確認項目。
+- What not to decide in this article: 個別商品のランキング、医学的・安全上の断定。
+- Safety / accuracy notes: NITE、抱っこひも安全協議会、メーカー公式情報、リコール情報を確認する。
+- Draft: `drafts/carrier-vs-stroller-first.md` を作成済み（2026-05-12）。
+- Public page: `articles/carrier-vs-stroller-first.html` を追加し、記事一覧とトップページから導線を設置済み（2026-05-12）。
+- Next action: 個別商品比較へ進む場合は、メーカー公式の対象月齢、装着方法、重量、取扱説明書、リコール情報を確認する。
