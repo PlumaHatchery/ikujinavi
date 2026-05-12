@@ -19,6 +19,11 @@
 - Stage:
 - Keyword:
 - Search intent:
+- Target persona:
+- Situation:
+- Main worry:
+- What this article helps decide:
+- What not to decide in this article:
 - Target reader:
 - Category:
 - Related need:
@@ -30,11 +35,29 @@
 
 ## Initial Ideas
 
+### 狭い家・車なし家庭の出産準備ロードマップ
+
+- Stage: Idea。
+- Keyword: 狭い家 出産準備 / 車なし 出産準備。
+- Search intent: 収納が少ない家や車なし生活で、最初に何を用意し、何を後回しにできるか知りたい。
+- Target persona: 都市部・車なし・収納少なめの家で、初めて出産準備をする家庭。
+- Situation: 出産準備リストやランキングを見て、全部買うべきか迷っている。
+- Main worry: 買いすぎて置き場所に困ること、退院直後に必要なものを逃すこと。
+- What this article helps decide: 最初に用意するもの、サイズを測ってから決めるもの、生活後に買い足すもの。
+- What not to decide in this article: 個別商品のランキング、価格比較、医療・安全上の断定。
+- Safety / accuracy notes: 寝具、チャイルドシート、ベビーカーなどは公式情報・公的情報を再確認。
+- Next action: 既存の `small-home-birth-prep.html` をこのペルソナに合わせて強化する。
+
 ### 軽量ベビーカーの選び方と比較記事
 
 - Stage: Idea。
 - Keyword: ベビーカー 軽量 おすすめ。
 - Search intent: 軽くて扱いやすいベビーカーを比較したい。
+- Target persona: 都市部・車なし・徒歩/電車移動中心の家庭。
+- Situation: 駅、改札、バス、狭い玄関でベビーカーを扱う場面が多い。
+- Main worry: 軽さだけで選んで、走行性・収納・折りたたみやすさで困ること。
+- What this article helps decide: 軽量ベビーカーを見るときの比較軸。
+- What not to decide in this article: 万人向けの最強商品、価格ランキング。
 - Safety / accuracy notes: 対象月齢、重量、価格は再確認。
 - Next action: 比較基準を整理する。
 
