@@ -199,3 +199,18 @@
 - Draft: `drafts/carrier-vs-stroller-first.md` を作成済み（2026-05-12）。
 - Public page: `articles/carrier-vs-stroller-first.html` を追加し、記事一覧とトップページから導線を設置済み（2026-05-12）。
 - Next action: 個別商品比較へ進む場合は、メーカー公式の対象月齢、装着方法、重量、取扱説明書、リコール情報を確認する。
+
+### 玄関が狭い家のベビーカー置き場チェック
+
+- Stage: Published。
+- Keyword: ベビーカー 置き場所 玄関 狭い / ベビーカー 収納 玄関。
+- Search intent: 玄関が狭い家で、ベビーカーを買う前に置き場所や折りたたみサイズを確認したい。
+- Target persona: 都市部・車なし・収納少なめの家で初めて出産準備をする家庭。
+- Situation: ベビーカーを買いたいが、玄関や廊下に置けるか不安。
+- Main worry: 買った後に置き場所がなく、通路をふさいでしまうこと。
+- What this article helps decide: 購入前に測る場所、見るスペック、置けない場合の代替案。
+- What not to decide in this article: 個別商品のランキング。
+- Safety / accuracy notes: 対象月齢・体重・取扱説明書・注意事項はメーカー公式情報を確認する。
+- Draft: `drafts/stroller-entryway-storage.md` を作成済み（2026-05-12）。
+- Public page: `articles/stroller-entryway-storage.html` を追加し、記事一覧から導線を設置済み（2026-05-12）。
+- Next action: 玄関が狭い家向けの候補商品比較をする場合は、公式の折りたたみサイズ・重量・自立可否を確認する。
