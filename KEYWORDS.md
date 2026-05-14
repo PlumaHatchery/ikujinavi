@@ -29,9 +29,10 @@ SEOキーワード候補、検索意図、優先度を管理する。
 
 - Search intent: 新生児から使える抱っこ紐の違いを知りたい。
 - Category: 外出。
-- Article type: 比較。
+- Article type: SEO向け判断ナビ。
 - Priority: High。
-- Notes: 安全性と対象月齢表現に注意。
+- Status: Published as `articles/newborn-carrier-check.html`（2026-05-14）。
+- Notes: 安全性と対象月齢表現に注意。個別商品比較に進む場合は公式情報を再確認。
 
 ### ベビー用品 買ってよかった
 

@@ -214,3 +214,19 @@
 - Draft: `drafts/stroller-entryway-storage.md` を作成済み（2026-05-12）。
 - Public page: `articles/stroller-entryway-storage.html` を追加し、記事一覧から導線を設置済み（2026-05-12）。
 - Next action: 玄関が狭い家向けの候補商品比較をする場合は、公式の折りたたみサイズ・重量・自立可否を確認する。
+
+
+### 新生児から使える抱っこ紐の選び方
+
+- Stage: Published。
+- Keyword: 抱っこ紐 新生児 比較 / 新生児 抱っこ紐 選び方。
+- Search intent: 新生児から使える抱っこ紐の違いと、購入前に確認すべき条件を知りたい。
+- Target persona: 都市部・車なし・収納少なめの家で、退院後〜1か月健診の移動に不安がある家庭。
+- Situation: ベビーカーを買う前に、抱っこ紐でどこまで対応できるか知りたい。
+- Main worry: 新生児対応の条件、首すわり前の姿勢、装着方法、体への負担が分からない。
+- What this article helps decide: 新生児から使う抱っこ紐で確認する順番、タイプ別の見方、車なし家庭での重視点。
+- What not to decide in this article: 個別商品のランキング、安全性の保証、医学的判断。
+- Safety / accuracy notes: 対象月齢・体重、装着方法、首すわり前の姿勢、リコール情報は購入前に公式情報で再確認する。
+- Draft: `drafts/newborn-carrier-check.md` を作成済み（2026-05-14）。
+- Public page: `articles/newborn-carrier-check.html` を追加し、記事一覧とトップページから導線を設置済み（2026-05-14）。
+- Next action: 個別商品比較へ進む場合は、メーカー公式の対象月齢、体重、装着方法、取扱説明書、リコール情報を確認する。
