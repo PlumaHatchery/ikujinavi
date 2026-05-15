@@ -26,9 +26,16 @@
 
 ### 国土交通省: チャイルドシート
 
-- URL: https://www.mlit.go.jp/jidosha/anzen/02assessment/car_h25/safetydevice/childseat.html
+- URL: https://www.mlit.go.jp/jidosha/anzen/02assessment/car_h20/safetydevice/childseat.html
 - 用途: チャイルドシート使用の重要性、車移動家庭向けの基本確認。
+- 確認メモ: 6歳未満の乳幼児へのチャイルドシート使用義務に触れている。退院時・健診・帰省など一時的な車利用でも、使用条件と取り付け先の確認を促す。
 - ページ反映方針: 車移動・退院時準備のセクションで、車種適合、取り付け方式、対象年齢・体重の確認を促す。
+
+### 警察庁: 子供を守るチャイルドシート
+
+- URL: https://www.npa.go.jp/bureau/traffic/anzen/childseat.html
+- 用途: 道路交通法上のチャイルドシート使用義務、事故時のリスク、正しい取り付けの重要性確認。
+- ページ反映方針: チャイルドシート記事では「車なしでも車に乗せる可能性」を先に確認し、対象年齢・取り付け方法・公式情報を再確認する導線として使う。
 
 ### 国土交通省: ベビーカーマーク
 
