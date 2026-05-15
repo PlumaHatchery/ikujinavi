@@ -849,6 +849,29 @@ tbody tr:last-child td {
   color: var(--muted);
 }
 
+.article-body {
+  display: grid;
+  gap: 0.9rem;
+  max-width: 48rem;
+  color: var(--muted);
+}
+
+.article-body p {
+  margin: 0;
+}
+
+.source-list {
+  display: grid;
+  gap: 0.65rem;
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.source-list a {
+  color: var(--primary-dark);
+  font-weight: 700;
+}
+
 .minimal-checklist {
   display: grid;
   gap: 0.65rem;
