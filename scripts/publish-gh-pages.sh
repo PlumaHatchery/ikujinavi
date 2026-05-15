@@ -16,7 +16,8 @@ git fetch origin --prune
 
 if [ ! -d "$PUBLISH_DIR/.git" ]; then
   rm -rf "$PUBLISH_DIR"
-  git worktree add "$PUBLISH_DIR" gh-pages
+  git worktree prune
+  git worktree add -f "$PUBLISH_DIR" gh-pages
 fi
 
 git -C "$PUBLISH_DIR" fetch origin --prune
