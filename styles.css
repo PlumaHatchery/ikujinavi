@@ -1165,6 +1165,7 @@ tbody tr:last-child td {
   border-radius: var(--radius-card);
   padding: 20px 18px 18px;
   min-height: 138px;
+  gap: 0;
   position: relative;
   transition: border-color .18s, transform .18s;
 }
@@ -1189,8 +1190,10 @@ tbody tr:last-child td {
   line-height: 1.65;
 }
 .pick-card__count {
-  position: absolute;
-  bottom: 16px; right: 18px;
+  position: static;
+  align-self: flex-end;
+  margin-top: auto;
+  padding-top: 14px;
   font-family: var(--serif);
   font-size: 18px;
   color: var(--accent);
@@ -1636,7 +1639,7 @@ tbody tr:last-child td {
   .pick-card { padding: 26px 22px 22px; min-height: 168px; }
   .pick-card__icon { width: 44px; height: 44px; margin-bottom: 18px; }
   .pick-card__label { font-size: 16px; }
-  .pick-card__count { font-size: 20px; bottom: 18px; right: 22px; }
+  .pick-card__count { font-size: 20px; }
 
   /* PHASES — 2 columns */
   .phase-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
