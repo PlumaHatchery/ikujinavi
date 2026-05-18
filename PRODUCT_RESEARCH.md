@@ -2,6 +2,28 @@
 
 商品ごとの調査メモを管理する。
 
+## Current Priority
+
+- 2026-05-18 方針変更: 新規記事追加より、公開済み記事の商品推薦・候補商品の具体化を優先する。
+- まずは既存記事ごとに、公式情報で確認できる商品候補を3〜5件ずつ整理する。
+- 記事本文では「万人向けランキング」ではなく、家庭条件別の候補として扱う。
+- 価格、在庫、レビュー数、販売状況、対象月齢/体重、安全注意、リコール/仕様変更は公開直前に再確認する。
+
+## Published Article Product Backlog
+
+- `lightweight-stroller-train.html`: 軽量B型/コンパクトベビーカー候補は既存調査あり。販売状況・価格・レビュー数を再確認して本文へ反映する。
+- `carrier-vs-stroller-first.html`: 新生児期から使える抱っこ紐、A型/AB型ベビーカー、レンタル/後買い判断の候補を調査する。
+- `newborn-carrier-check.html`: 新生児対応抱っこ紐の候補、対象月齢、首すわり前の注意、公式装着動画/説明書を確認する。
+- `stroller-entryway-storage.html`: 玄関収納しやすいベビーカー、折りたたみサイズ、自立可否、収納場所別の候補を調査する。
+- `baby-gate-placement-check.html`: 階段上対応、キッチン向け、置くだけ/突っ張り/ねじ固定の候補を分けて調査する。
+- `baby-bed-small-room-check.html`: ミニベビーベッド、折りたたみベッド、布団/マットレス系の候補と安全注意を調査する。
+- `small-home-birth-prep.html`: 狭い家向けに「先に買う/後でよい」商品候補をカテゴリ横断で整理する。
+- `diaper-station-small-home.html`: 省スペースなおむつ収納、ワゴン、消臭袋/ゴミ箱、詰め替え動線の候補を調査する。
+- `bottle-feeding-setup-check.html`: 哺乳瓶、消毒/乾燥、調乳用品、収納用品の候補を調査する。
+- `baby-bath-storage-safety.html`: ベビーバス、沐浴マット、収納しやすい入浴用品候補を調査する。
+- `baby-clothes-minimal-prep.html`: 最小限の肌着/ウェア枚数、季節別の候補カテゴリ、買い足し判断を整理する。
+- `childseat-taxi-check.html`: タクシー/カーシェア/帰省でのチャイルドシート候補やレンタル選択肢を調査する。
+
 ## Product Template
 
 ```markdown
@@ -83,6 +105,67 @@
 - Official check notes: コンビ公式ブランドストアで型番/JAN、サイズ、重量、対象月齢・体重、機能、オープン価格、ベビカル公式オンラインストア販売導線を確認。
 - Review signals: 未確認。
 - Last checked: 2026-05-12。
+- Recheck needed before publishing: yes。
+
+### 新生児抱っこ紐候補（2026-05-18）
+
+#### エルゴベビー OMNI Deluxe
+
+- Official URL: https://ergobaby.jp/products/cregbcodm
+- Category: 抱っこ紐 / 新生児対応 / 4WAY。
+- Target age / weight: 体重3.2kg（身長50.8cm）から20.4kg。対面抱きは0カ月〜48カ月まで。
+- Key features: フルメッシュ、収納、成長段階に応じたシート幅・首元クッション調整、取扱説明書と動画案内。
+- Good fit for: 徒歩・電車移動が多く、1本で長く使う前提の家庭。
+- Not ideal for: 低月齢期だけ軽く短く使いたい家庭。
+- Safety / accuracy notes: SGマーク制度の適用対象月齢は抱き方により異なる。取扱説明書どおりの装着確認が必須。
+- Last checked: 2026-05-18。
+- Recheck needed before publishing: yes。
+
+#### エルゴベビー OMNI Classic
+
+- Official URL: https://ergobaby.jp/products/omni-classic
+- Category: 抱っこ紐 / 新生児対応 / 定番モデル。
+- Target age / weight: 体重3.2kg（身長50.8cm）から20.4kg。対面抱きは0カ月〜48カ月まで。
+- Key features: 4WAY、シート幅/深さ調整、メッシュ生地、SGマーク認証製品。
+- Good fit for: シンプルな定番型でコストバランスを見たい家庭。
+- Not ideal for: 収納や上位機能を重視する家庭はOMNI Deluxeなどと比較。
+- Safety / accuracy notes: 新生児0〜1カ月、36カ月以上、対面抱き24カ月以上などはSGマーク制度対象外という公式注記あり。
+- Last checked: 2026-05-18。
+- Recheck needed before publishing: yes。
+
+#### ベビービョルン ベビーキャリア MINI
+
+- Official URL: https://www.babybjorn.jp/products/baby-carriers/
+- Category: 抱っこ紐 / 低月齢向け。
+- Target age / weight: 0カ月〜約12カ月、体重3.2〜11kg。
+- Key features: 約500g、対面抱っこ・前向き抱っこ、セパレート構造、装着が簡単という公式訴求。
+- Good fit for: 新生児期〜短時間外出、家の中、軽さと装着簡単さを重視する家庭。
+- Not ideal for: 1本で3〜4歳頃まで使いたい家庭。
+- Last checked: 2026-05-18。
+- Recheck needed before publishing: yes。
+
+#### アップリカ Laclis ラクリス
+
+- Official URL: https://www.aprica.jp/products/sling/detail/sling/laclis/
+- Category: 抱っこ紐 / 新生児期対応候補。
+- Key features: 腰らくサポートEX、首マモール、ハイポジションシート、前面4バックル、フルオープン背当て、フルメッシュ構造。
+- Good fit for: 腰への負担軽減、前面装着、首すわり前の姿勢サポートを重視する家庭。
+- Recheck needed: 対象月齢・体重、価格、付属品、洗濯条件は個別商品ページ/取扱説明書で再確認。
+- Last checked: 2026-05-18。
+- Recheck needed before publishing: yes。
+
+### 玄関収納向けベビーカー候補（2026-05-18）
+
+#### コンビ auto N second QC
+
+- Official URL: https://www.combi.co.jp/store/stroller/auton/g/g119956/
+- Category: セカンドベビーカー / コンパクト / オートクローズ。
+- Target age / weight: 生後6カ月〜48カ月頃まで、体重22kg以下。
+- Price: 32,890円（税込）公式ストア確認時点。変動・販売状況は再確認。
+- Key features: オートクローズ、オートスタンド、閉W400×D220〜340×H560mm、本体重量5.9kg、発売日2026/4/17、EN基準適合品。
+- Good fit for: 狭い玄関で自立収納と片手でたたむ動作を重視する家庭。
+- Not ideal for: とにかく3kg台の軽さを最優先する家庭。
+- Last checked: 2026-05-18。
 - Recheck needed before publishing: yes。
 
 ## Rules
