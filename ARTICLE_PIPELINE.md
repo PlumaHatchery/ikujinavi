@@ -210,9 +210,10 @@
 - Main worry: 買った後に置き場所がなく、通路をふさいでしまうこと。
 - What this article helps decide: 購入前に測る場所、見るスペック、置けない場合の代替案。
 - What not to decide in this article: 個別商品のランキング。
-- Safety / accuracy notes: 対象月齢・体重・取扱説明書・注意事項はメーカー公式情報を確認する。
+- Safety / accuracy notes: 対象月齢・体重・取扱説明書・注意事項はメーカー公式情報を確認する。公共交通機関で使う場合はベビーカーマークや施設案内も確認する。
+- Source memo: 国土交通省「ベビーカーマークについて」、NITE「ベビーカー、抱っこひもの事故に注意」、消費者庁リコール情報サイトを記事内に掲載済み（2026-05-18確認）。
 - Draft: `drafts/stroller-entryway-storage.md` を作成済み（2026-05-12）。
-- Public page: `articles/stroller-entryway-storage.html` を追加し、記事一覧から導線を設置済み（2026-05-12）。
+- Public page: `articles/stroller-entryway-storage.html` を追加し、記事一覧から導線を設置済み。参考・確認先を追記（2026-05-18）。
 - Next action: 玄関が狭い家向けの候補商品比較をする場合は、公式の折りたたみサイズ・重量・自立可否を確認する。
 
 
