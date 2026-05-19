@@ -177,6 +177,72 @@
 - Last checked: 2026-05-18。
 - Recheck needed before publishing: yes。
 
+
+### ベビーゲート設置場所別候補（2026-05-19）
+
+調査フロー: 主要メーカー公式（日本育児、リッチェル）で候補を広く確認し、量販店/ECの売れ筋では低価格の「階段上」「突っ張り」訴求商品が多いことを補助的に確認。記事掲載候補は、公式ページで設置幅・対象年齢・階段上可否・固定方法を確認できたものに絞る。
+
+#### 日本育児 スマートゲイトⅡ プラス
+
+- Official URL: https://www.nihonikuji.co.jp/item/smartgate2_plus
+- Category: ベビーゲート / 階段上対応 / ねじ留め補助ソケット付き。
+- Target age / weight: 6ヶ月〜満2歳まで。
+- Price: 希望小売価格19,580円（税込）。販売価格は記事化前に再確認。
+- Key features: 取付幅67〜91cm、階段上69〜93cm。高さ91cm、片開きドアストッパー、ダブルロック、オートアシスト、ステップカバー、階段上や段差の降り口では30cm以上離して設置する注意あり。
+- Good fit for: 階段上に設置したい家庭、閉め忘れ・片開き・高さを重視する家庭。
+- Not ideal for: ワイドパネルを階段上で使いたい家庭。公式ページにワイドパネルは階段上使用不可とあるため注意。
+- Comparison notes: 階段上候補の基準商品として扱いやすい。設置幅と30cm離隔条件を表に残す。
+- Safety / accuracy notes: 取扱説明書確認必須。階段上設置は公式条件に合う場所だけに限定して書く。
+- Review signals: EC売れ筋は未確認。公式仕様優先。
+- Last checked: 2026-05-19。
+- Recheck needed before publishing: yes。
+
+#### リッチェル 階段の上でも使える木のバリアフリーゲート
+
+- Official URL: https://www.richell-shop.jp/c/baby/category308/093876
+- Official article URL: https://www.richell.co.jp/babychell/baby-gate-for-stairs/
+- Category: ベビーゲート / 階段上対応 / 木製 / ねじ固定式。
+- Target age / weight: 公式記事では新生児〜24ヵ月頃まで。公式ショップでは月齢0カ月〜表示。
+- Price: 公式ショップ販売価格24,200円（税込）。価格・在庫は記事化前に再確認。
+- Key features: 取付幅74〜114cm、サイズ74〜114×7.5×82.5Hcm、製品重量4.1kg。床面バリアフリー、柱や桟のある壁へのねじ固定、階段側に開かない片開きドア、オートクローズ＆オートロック、開放保持。
+- Good fit for: 階段上で足元の段差を避けたい家庭、木製・インテリアなじみを重視する家庭。
+- Not ideal for: ねじ穴を開けられない賃貸、柱や桟など固定条件を満たせない場所。
+- Comparison notes: 階段上対応かつ床面に段差がない点が強い。賃貸では貸主確認が必要。
+- Safety / accuracy notes: ねじ固定条件と設置面の強度を取扱説明書で確認。安全保証のように書かない。
+- Review signals: 公式ショップで「ベストセラー」表示。外部レビュー数は未確認。
+- Last checked: 2026-05-19。
+- Recheck needed before publishing: yes。
+
+#### 日本育児 スマートゲイトⅡ
+
+- Official URL: https://www.nihonikuji.co.jp/item/smartgate2
+- Category: ベビーゲート / 突っ張り式 / キッチン・階段下・脱衣所向け。
+- Target age / weight: 公式ページの対象年齢欄は取得範囲では確認できず。記事化前に取扱説明書で再確認。
+- Price: 希望小売価格18,018円（税込）。販売価格は記事化前に再確認。
+- Key features: 取付幅67〜91cm、高さ91cm、両開きドア、オートアシスト、ダブルロック、幅木よけ機能、ステップカバー。公式ページの用途例はキッチン、階段下、脱衣所・お風呂、お部屋の仕切り。
+- Good fit for: キッチン前、脱衣所前、階段下など、開閉頻度が高く幅木も気になる場所。
+- Not ideal for: 階段上に設置したい家庭。階段上候補はスマートゲイトⅡプラスなど階段上対応品を優先。
+- Comparison notes: 階段上ではなく、キッチン・水まわり前の条件別候補として扱う。
+- Safety / accuracy notes: 突っ張り式は設置面の強度・締め直し・ロック確認を本文に残す。
+- Review signals: EC売れ筋は未確認。公式仕様優先。
+- Last checked: 2026-05-19。
+- Recheck needed before publishing: yes。
+
+#### 日本育児 おくだけとおせんぼ
+
+- Official URL: https://www.nihonikuji.co.jp/item/okudake_toosenbo
+- Category: ベビーゲート / 自立式 / 置くだけタイプ。
+- Target age / weight: 6ヵ月〜満2歳頃まで。
+- Price: 希望小売価格 S 12,100円、M 15,180円、L 16,280円（税込）。販売価格は記事化前に再確認。
+- Key features: S幅77〜95cm、M幅95〜140cm、L幅140〜180cm。高さ60cm、セーフティプレート、自立型、伸縮式、収納・持ち運びしやすい構造。公式用途例はキッチン、階段下、広め間口の仕切り。
+- Good fit for: 壁に穴を開けにくい家庭、キッチン前やリビング内の一時的な仕切り、広めの間口。
+- Not ideal for: 階段上や段差付近。自立式は子どもが押す・体重をかける場面を想定し、設置場所を慎重に選ぶ。
+- Comparison notes: 価格帯と設置しやすさの候補。ただし安全面では「置くだけで安心」と書かない。
+- Safety / accuracy notes: 階段上候補には入れない。設置場所と取扱説明書確認を強調。
+- Review signals: EC売れ筋は未確認。公式仕様優先。
+- Last checked: 2026-05-19。
+- Recheck needed before publishing: yes。
+
 ## Rules
 
 - 価格、在庫、レビュー数、対象月齢は変動するため、記事化前に再確認する。
