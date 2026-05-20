@@ -167,6 +167,38 @@
 - Last checked: 2026-05-20。
 - Recheck needed before publishing: yes。
 
+### 車なし家庭の退院時チャイルドシート候補（2026-05-20）
+
+調査フロー: 公的情報（国土交通省、警察庁）で6歳未満のチャイルドシート使用義務・正しい取り付けの重要性を確認し、メーカー公式ページで新生児期から使える候補と車種適合確認導線を確認。車なし家庭向けの記事では、購入を前提にせず、退院時・健診・帰省・一時利用の頻度に応じて購入/レンタル/家族車への取り付け可否を分けて扱う。
+
+#### コンビ ホワイトレーベル THE S ISOFIX エッグショック ZC-720
+
+- Official URL: https://www.combi.co.jp/store/carseat/thes/g/g119519/
+- Category: チャイルドシート / ISOFIX / 回転タイプ / 新生児期対応候補。
+- Target age / weight: 後向きは身長40cm〜105cmまで、前向きは身長76cmかつ月齢15カ月以上〜105cmまで。体重19.0kg超は使用不可。参考月齢は新生児〜4才頃。
+- Price: 公式ページでは販売状況・価格を記事化前に再確認。
+- Key features: R129適合、ISOFIX固定、セパレート構造、回転タイプ。後向き時W440×D680〜810×H630〜740mm、前向き時W440×D670×H650〜825mm。
+- Good fit for: 家族の車・カーシェアなど、ISOFIX対応車に取り付ける可能性があり、乗せ降ろしやすさを重視する家庭。
+- Not ideal for: 取り付け先の車がISOFIX非対応、または車種適合を確認できない家庭。車なし家庭では室内保管サイズも確認が必要。
+- Comparison notes: 「新生児から使える」だけでなく、ISOFIX対応・車種適合・後向き/前向き条件を表に残す。
+- Safety / accuracy notes: 取り付け可能車種、座席位置、取扱説明書、リコール情報を購入・レンタル前に再確認。
+- Last checked: 2026-05-20。
+- Recheck needed before publishing: yes。
+
+#### アップリカ エアキャリー AC
+
+- Official URL: https://www.aprica.jp/products/childseat/detail/infant/air_carry_ac/
+- Category: ベビーシート / トラベルシステム / 新生児期対応候補。
+- Target age / weight: 身長40cm〜83cmまで、13kgを超える子どもは使用不可。参考月齢は新生児〜15カ月頃まで。
+- Price: メーカー希望小売価格37,000円（税込40,700円）。価格・販売状況は記事化前に再確認。
+- Key features: 3.0kg、チャイルドシート、ベビーキャリー、ロッキングチェア、対応ベビーカー装着などの5-Way Travel System。別売り回転式ベースや対応ベビーカー/アタッチメントの確認が必要。
+- Good fit for: 退院時・健診・帰省などで、車から室内や対応ベビーカーへ寝かせたまま移動したい場面を検討する家庭。
+- Not ideal for: 4歳頃まで1台で使いたい家庭、対応ベビーカーやベースを含めた保管場所・費用を確認できない家庭。
+- Comparison notes: 使用期間は短めだが、車なし家庭の一時利用・持ち運び候補として比較しやすい。対応車種・対応ベビーカーは必ず公式導線で再確認。
+- Safety / accuracy notes: 取扱説明書、取り付け可能車種、R129表記、リコール情報を購入・レンタル前に再確認。
+- Last checked: 2026-05-20。
+- Recheck needed before publishing: yes。
+
 ### 玄関収納向けベビーカー候補（2026-05-18）
 
 #### コンビ auto N second QC
