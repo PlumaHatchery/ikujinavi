@@ -157,10 +157,14 @@
 
 - Official URL: https://www.aprica.jp/products/sling/detail/sling/laclis/
 - Category: 抱っこ紐 / 新生児期対応候補。
-- Key features: 腰らくサポートEX、首マモール、ハイポジションシート、前面4バックル、フルオープン背当て、フルメッシュ構造。
+- Target age / weight: 生後14日以降かつ体重3.2kg〜36カ月、体重15kgまで。
+- Price: メーカー希望小売価格29,000円（税込31,900円）。価格は記事化前に再確認。
+- Key features: 腰らくサポートEX、首マモール、ハイポジションシート、前面4バックル、フルオープン背当て、フルメッシュ構造、洗濯機洗い可（首マモールは手洗い）。
 - Good fit for: 腰への負担軽減、前面装着、首すわり前の姿勢サポートを重視する家庭。
-- Recheck needed: 対象月齢・体重、価格、付属品、洗濯条件は個別商品ページ/取扱説明書で再確認。
-- Last checked: 2026-05-18。
+- Not ideal for: 生後14日未満から使いたい家庭、体重15kg超まで長く使いたい家庭。
+- Safety / accuracy notes: 首すわり前は首マモールとハイポジションシートを使用。タテ対面抱っこの生後14日以降1カ月まで、24カ月超〜36カ月はSGマーク制度の対象外という公式注記あり。
+- Official check notes: 公式ページで使用期間、価格、SGマーク注記、首マモール/ハイポジションシート、前面バックル、洗濯条件を確認。
+- Last checked: 2026-05-20。
 - Recheck needed before publishing: yes。
 
 ### 玄関収納向けベビーカー候補（2026-05-18）
