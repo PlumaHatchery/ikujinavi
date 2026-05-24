@@ -167,6 +167,22 @@
 - Last checked: 2026-05-20。
 - Recheck needed before publishing: yes。
 
+#### nuna ベビーキャリア CUDL clik
+
+- Official URL: https://nuna-baby.jp/products/cudl-clik
+- Official shop URL: https://www.katoji-onlineshop.com/c/all_items/69305
+- Category: 抱っこ紐 / 新生児期対応候補 / 4-in-1。
+- Target age / weight: KATOJI公式オンラインショップでは新生児〜体重16kgと案内。詳細な月齢別の抱き方、体重下限、使用条件は取扱説明書で再確認。
+- Price: KATOJI公式オンラインショップ掲載価格35,200円（税込）。価格・在庫・カラー展開・販売状況は記事化前に再確認。
+- Key features: 対面抱っこ、前向き抱っこ、おんぶなどの使い分け、4カ月未満向けの乳幼児ブースター、ワンタッチ装着のバックル式ウエストバンド、メッシュ素材、洗濯機で丸洗い可という公式訴求。
+- Good fit for: マグネットバックルや前面操作のしやすさ、通気性、対面抱っこから成長後の使い分けを見たい家庭。
+- Not ideal for: 体重16kg超まで長く使いたい家庭、腰ベルトやバックルの相性を試着せず決めるのが不安な家庭。
+- Safety / accuracy notes: 「Hip Healthy」などの表記は、取扱説明書どおりに使用した場合の公式説明として扱い、安全保証の断定にしない。腰ベルトの緩みなどレビュー上の声は個人差があるため、試着・調整・説明書確認の項目として扱う。
+- Official check notes: nuna公式ページで4-in-1、乳幼児ブースター、バックル式ウエストバンド、メッシュ素材を確認。KATOJI公式オンラインショップで新生児〜体重16kg、価格、カラー、レビュー欄を確認。
+- Review signals: KATOJI公式オンラインショップにレビュー4件、評価4.00表示あり。ただしレビュー数・評価は変動情報として記事化前に再確認。
+- Last checked: 2026-05-24。
+- Recheck needed before publishing: yes。
+
 ### 狭い家向けベビーバス候補（2026-05-21）
 
 調査フロー: 消費者庁のベビーバス事故注意を安全面の前提にし、メーカー公式ページで収納しやすい空気式・折りたたみ系候補を確認。今回はリッチェル公式情報を優先し、価格・販売状況・対象月齢・使用場所は記事反映前に再確認する。
