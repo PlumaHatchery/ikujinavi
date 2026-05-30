@@ -1685,6 +1685,44 @@ tbody tr:last-child td {
 
 .cat-list { padding: 28px 24px 0; display: flex; flex-direction: column; gap: 16px; }
 
+/* compact support navigation */
+.ig-section--subnav { padding-top: 56px; }
+.support-nav {
+  display: grid;
+  gap: 14px;
+}
+.support-nav__group {
+  border: 1px solid var(--border-soft);
+  border-radius: var(--radius-card);
+  background: rgba(255,255,255,.58);
+  padding: 20px;
+}
+.support-nav__group h3 {
+  font-family: var(--serif);
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: .06em;
+  margin: 0 0 14px;
+}
+.support-nav__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.support-nav__links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  color: var(--text-sub);
+  background: var(--bg);
+  font-size: 12px;
+  line-height: 1.5;
+}
+.support-nav__links a:hover { border-color: var(--accent); color: var(--text); }
+
 /* article page */
 .art-header { padding: 6px 24px 30px; }
 .art-cat {
@@ -1853,7 +1891,7 @@ tbody tr:last-child td {
   }
   .quick-check__head { margin-bottom: 0; }
   .quick-check__head h2 { font-size: 21px; }
-  .quick-check__list { grid-template-columns: repeat(3, 1fr); gap: 0; }
+  .quick-check__list { grid-template-columns: repeat(4, 1fr); gap: 0; }
   .quick-check__item {
     grid-template-columns: 1fr;
     padding: 0 22px;
@@ -1904,8 +1942,8 @@ tbody tr:last-child td {
   .pick-card__count { font-size: 20px; }
 
   .entrance { padding-top: 24px; }
-  .entrance-grid,
-  .first-read-grid,
+  .entrance-grid { grid-template-columns: repeat(4, 1fr); gap: 18px; }
+  .first-read-grid { grid-template-columns: repeat(4, 1fr); gap: 18px; }
   .fit-grid { grid-template-columns: repeat(3, 1fr); gap: 18px; }
   .fit-grid { grid-template-columns: repeat(2, 1fr); }
   .entrance-card,
@@ -1918,13 +1956,11 @@ tbody tr:last-child td {
   .coming-soon { margin-top: 24px; padding-top: 24px; }
   .coming-soon__list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; max-width: calc(50% - 9px); }
 
-  /* PHASES — 2 columns */
-  .phase-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-  .phase-card {
-    grid-template-columns: 92px 1fr 24px;
-    padding: 26px 28px;
-  }
-  .phase-card__label { font-size: 16.5px; }
+  .ig-section--subnav { padding-top: 72px; }
+  .support-nav { grid-template-columns: 1.25fr .75fr; gap: 18px; }
+  .support-nav__group { padding: 26px; }
+  .support-nav__group h3 { font-size: 16.5px; }
+  .support-nav__links a { font-size: 12.5px; padding: 8px 14px; }
 
   /* NEWS — 2 columns */
   .news {
