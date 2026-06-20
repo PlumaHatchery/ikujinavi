@@ -51,7 +51,7 @@
 
 ### 保育園準備の名前付け用品チェック
 
-- Stage: Draft Ready。
+- Stage: Published（2026-06-20, `articles/nursery-name-label-check.html`）。
 - Keyword: 保育園準備 名前付け / 名前シール スタンプ どっち。
 - Search intent: 入園前に名前シールやスタンプを買うべきか、園の指定や持ち物別に確認したい。
 - Target persona: 保育園入園準備を始めたが、名前付け用品を買いすぎたくない家庭。
@@ -62,7 +62,7 @@
 - Category: 保育園準備。
 - Related need: 名前付け用品 / 入園準備 / 省スペース管理。
 - Safety / accuracy notes: インク、シール、アイロン接着、食洗機・電子レンジ対応、使用上の注意は商品説明を再確認する。
-- Next action: `drafts/nursery-name-label-check.md` を公開用HTMLに整える前に、園指定の差分と商品タイプ別注意点を再確認する。
+- Next action: 公開済み。次回は園指定の差分や、名前付け用品の少量購入導線を追加できるか確認する。
 
 ### 狭い家・車なし家庭の出産準備ロードマップ
 
