@@ -77,6 +77,17 @@
 - Safety / accuracy notes: 寝具、チャイルドシート、ベビーカーなどは公式情報・公的情報を再確認。
 - Next action: 既存の `small-home-birth-prep.html` をこのペルソナに合わせて強化する。
 
+### ベビーカーの荷物かごは必要？車なし家庭の確認ポイント
+
+- Stage: Published（2026-06-20, `articles/stroller-basket-needed-check.html`）。
+- Keyword: ベビーカー 荷物かご 必要 / ベビーカー 収納かご 車なし。
+- Search intent: 車なし・徒歩移動中心の家庭が、ベビーカーの収納かご容量や耐荷重をどこまで重視すべきか知りたい。
+- Target persona: 買い物・送迎・抱っこ紐併用で荷物が増えそうだが、軽さや折りたたみも捨てたくない家庭。
+- What this article helps decide: 荷物かごを重視するか、軽さ・折りたたみとのバランスをどう見るか。
+- What not to decide in this article: 特定商品のランキング、価格比較、荷物の掛け方の安全保証。
+- Safety / accuracy notes: 収納かごの耐荷重、ハンドル荷物掛けの可否、取扱説明書、リコール情報は購入前・使用前に再確認する。
+- Next action: 軽量ベビーカー記事からの小トピック導線として公開済み。次回は「電車でたたみやすい」など別小トピックを分割できる。
+
 ### 軽量ベビーカーの選び方と比較記事
 
 - Stage: Idea。
