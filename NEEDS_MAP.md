@@ -46,6 +46,9 @@
 - `articles/carrier-vs-stroller-first.html` — 抱っこ紐とベビーカーの優先順位。
 - `articles/newborn-carrier-check.html` — 新生児期から使う抱っこ紐の確認点。
 - `articles/childseat-taxi-check.html` — 車なし家庭の退院・タクシー利用時の確認点。
+- `articles/stroller-basket-needed-check.html` — 車なし家庭でベビーカーの荷物かごを重視するかの確認点。
+- `articles/summer-stroller-heat-check.html` — 暑い日のベビーカー外出前に、暑さ指数・休憩場所・保冷用品の使い方を確認する入口。
+- `articles/rainy-stroller-outing-check.html` — 雨の日のベビーカー外出前に、天気・交通機関・レインカバー・置き場所を確認する入口。
 
 ### 狭い家で使いたい
 
@@ -62,21 +65,31 @@
 - `articles/bottle-feeding-setup-check.html` — 夜間や片手対応を想定した授乳まわり。
 - `articles/diaper-station-small-home.html` — 取りに行く回数を減らすおむつ替え配置。
 - `articles/baby-gate-placement-check.html` — 家事動線上の立ち入り対策を考える入口。
+- `articles/work-from-home-baby-safe-place.html` — 在宅勤務・家事中に赤ちゃんを短時間待たせる場所の確認点。
 
 ### 保育園準備
 
 - `articles/nursery-name-label-check.html` — 名前付け用品を買う前に、園指定・素材・収納場所を確認する入口。通園バッグ、食事用品は今後の候補。
+
+### 家の中の安全確認
+
+- `articles/baby-gate-placement-check.html` — キッチン・階段・浴室前など、立ち入り対策を考える入口。
+- `articles/work-from-home-baby-safe-place.html` — 目が届く範囲での短時間待機場所を決める入口。
+- `articles/toy-battery-small-parts-check.html` — 小さな部品・ボタン電池・兄姉のおもちゃの混在を確認する入口。
+- `articles/toddler-toothbrush-safety-check.html` — 幼児用歯ブラシの喉突き防止、仕上げ磨き用との使い分け、置き場所を確認する入口。
 
 ### 旅行・帰省
 
 - `articles/lightweight-stroller-train.html` — 電車・徒歩・バス中心の移動確認。
 - `articles/newborn-carrier-check.html` — 移動時の抱っこ紐確認。
 - `articles/childseat-taxi-check.html` — タクシーや家族の車を使う可能性の確認。
+- `articles/rainy-stroller-outing-check.html` — 雨天時にベビーカーで出るか、抱っこ紐・延期に切り替えるかの確認。
 
 ## Gap Ideas
 
 - 保育園準備は名前付け用品の記事が公開済み。次は通園バッグ、食事用品、お昼寝用品のうち、園指定の確認が多い小トピックから追加する余地がある。
 - ワンオペ育児は既存記事に要素が散っているため、将来的にまとめページか関連記事導線を作ると探しやすい。
+- 家の中の安全確認は、おもちゃ・歯ブラシの記事が増えたため、次は「家具固定・角ガード」「浴室や洗面所の小物管理」など置き場所起点の小トピックに分けると導線を作りやすい。
 - 旅行・帰省は外出記事と重なるため、価格・在庫・対象月齢を断定せず、持ち運びやすさと公式条件の再確認を中心に扱う。
 
 ## Notes
