@@ -25,11 +25,16 @@ git -C "$PUBLISH_DIR" checkout gh-pages
 git -C "$PUBLISH_DIR" reset --hard origin/gh-pages
 
 cp "$ROOT/index.html" "$ROOT/styles.css" "$PUBLISH_DIR/"
+for optional_file in robots.txt sitemap.xml; do
+  if [ -f "$ROOT/$optional_file" ]; then
+    cp "$ROOT/$optional_file" "$PUBLISH_DIR/"
+  fi
+done
 rsync -a --delete "$ROOT/articles/" "$PUBLISH_DIR/articles/"
 
 git -C "$PUBLISH_DIR" diff --check
 
-git -C "$PUBLISH_DIR" add index.html styles.css articles
+git -C "$PUBLISH_DIR" add index.html styles.css robots.txt sitemap.xml articles
 if git -C "$PUBLISH_DIR" diff --cached --quiet; then
   echo "No gh-pages changes to publish."
   exit 0

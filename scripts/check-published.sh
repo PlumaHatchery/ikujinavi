@@ -23,6 +23,14 @@ trap 'rm -rf "$TMP_DIR"' EXIT
 
 mkdir -p "$TMP_DIR/current" "$TMP_DIR/published"
 cp "$ROOT/index.html" "$ROOT/styles.css" "$TMP_DIR/current/"
+for optional_file in robots.txt sitemap.xml; do
+  if [ -f "$ROOT/$optional_file" ]; then
+    cp "$ROOT/$optional_file" "$TMP_DIR/current/"
+  fi
+  if [ -f "$PUBLISH_DIR/$optional_file" ]; then
+    cp "$PUBLISH_DIR/$optional_file" "$TMP_DIR/published/"
+  fi
+done
 rsync -a --delete "$ROOT/articles/" "$TMP_DIR/current/articles/"
 cp "$PUBLISH_DIR/index.html" "$PUBLISH_DIR/styles.css" "$TMP_DIR/published/"
 rsync -a --delete "$PUBLISH_DIR/articles/" "$TMP_DIR/published/articles/"
