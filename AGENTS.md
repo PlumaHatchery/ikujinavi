@@ -166,8 +166,10 @@ Autonomous run checklist:
 3. Use only free/public sources unless Kaoru explicitly approves otherwise.
 4. Make one small improvement per run.
 5. Review `git diff` before commit.
-6. If safe, commit and push.
-7. After push, report to Slack: changed summary, changed files, commit hash, and next improvement idea.
+6. If safe, commit and push `master`.
+7. If the change affects public site files (`index.html`, `styles.css`, or `articles/`), immediately run `./scripts/publish-gh-pages.sh` and confirm `gh-pages` push succeeded.
+8. Always run `./scripts/check-published.sh` before reporting completion. If it fails, publish first; do not report the article as done while unpublished.
+9. After publish verification, report to Slack: changed summary, changed files, master commit hash, gh-pages publish hash when applicable, and next improvement idea.
 
 ## Medical, Development, and Safety Wording
 
