@@ -26,3 +26,4 @@
 - `/tmp/ikujinavi-gh-pages` は公開用 worktree。手作業で `rsync` する場合はコピー先パスを必ず確認する。
 - 表示が古い場合は GitHub Pages / ブラウザキャッシュの可能性がある。まず raw の `gh-pages/index.html` を確認する。
 - 公開漏れ防止のため、完了前に `./scripts/check-published.sh` を実行する。
+- `./scripts/check-published.sh` は `gh-pages` との差分だけでなく、GitHub Pages の公開URLが実際に HTTP 200 で取得できるかも確認する。
